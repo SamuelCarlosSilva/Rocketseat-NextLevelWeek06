@@ -1,5 +1,5 @@
 
-🚀Projects built during the Next Level Week 06 - Rocketseat
+🚀Project built during the Next Level Week 06 - Rocketseat
 
 
 
